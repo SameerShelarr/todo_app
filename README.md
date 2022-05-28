@@ -1,10 +1,11 @@
 # todo_app
 
-A new Flutter project.
+A sample Flutter app for learning Flutter and Bloc architecture.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/40592187/170837897-e0b5bfc0-5d05-4eee-b1ac-1deae2ebd24e.png" width="200"> <img src="https://user-images.githubusercontent.com/40592187/170837934-f9b31490-4f8c-48b8-8c5c-071b7b4be895.png" width="200"> <img src="https://user-images.githubusercontent.com/40592187/170837957-ec8ac747-5330-43a7-8b2a-e02546df351e.png" width="200">
 
-This project is a starting point for a Flutter application.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
